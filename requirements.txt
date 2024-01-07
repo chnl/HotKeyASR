@@ -1,0 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.0.1+cu118
+concurrent.futures
+faster-whisper
+speech-recognition
+keyboard
+logging
+numpy
+datetime
+logging
+threading
+queue
+time
